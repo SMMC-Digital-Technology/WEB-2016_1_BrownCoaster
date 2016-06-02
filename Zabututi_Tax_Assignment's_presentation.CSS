@@ -17,8 +17,9 @@ h1 {
     max-width: 150px;
 }
 
-p {
+#BodyText {
     color: #adad85
+    text-align: center;
 }
 
 h2 {
