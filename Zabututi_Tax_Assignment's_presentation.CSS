@@ -1,9 +1,14 @@
 html {
-    background-color: #ffff00
+    background-color: #FEDC63;
+    width: 75%;
+    height: 100%;
 }
 
 body {
-    text-align: center
+    width: 75%;
+    text-align: center;
+    color: lightgrey;
+    height: auto;
 }
 
 h1 {
